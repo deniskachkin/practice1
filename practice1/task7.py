@@ -1,0 +1,6 @@
+print ('Как Вас зовут?')
+name = input()
+print ('Здравстуйте,', name)
+print ('Что Вам нравится?')
+passion = input()
+print ('Отлично!', passion, '- хорошее увлечение.')
